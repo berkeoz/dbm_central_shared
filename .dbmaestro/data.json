@@ -67,8 +67,8 @@
                     "DBTypeName": "SQL Server",
                     "host": "localhost",
                     "authType": "SqlAuthentication",
-                    "userName": "test_user5",
-                    "dbName": "test_db5",
+                    "userName": "sa",
+                    "dbName": "shared_feature",
                     "Password": "do1NBD0OcmAl1jAcpH7iWg=="
                   }
                 },
