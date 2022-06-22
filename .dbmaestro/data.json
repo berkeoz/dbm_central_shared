@@ -71,6 +71,17 @@
                     "dbName": "test_db5",
                     "Password": "do1NBD0OcmAl1jAcpH7iWg=="
                   }
+                },
+                {
+                  "BranchName": "shared_feature",
+                  "DatabaseConnectionDetails": {
+                    "DBTypeName": "SQL Server",
+                    "host": "localhost",
+                    "authType": "SqlAuthentication",
+                    "userName": "sa",
+                    "dbName": "shared_feature",
+                    "Password": "do1NBD0OcmAl1jAcpH7iWg=="
+                  }
                 }
               ],
               "RepositoryCredentials": null
